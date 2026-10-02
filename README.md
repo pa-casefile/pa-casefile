@@ -1,0 +1,82 @@
+![Game Banner](./images/en/x_banner.png)
+# Prudentia Academy Case File (Demo)
+
+## 📜 Story
+**"Solve this case, and you shall live."**  
+A girl calling herself a "Death Deity" suddenly whisks you away to a isekai magic academy to master detective skills.  
+Her sole purpose? A single murder case—where the victim is none other than all of humanity!
+
+## 👾 About the Game
+
+### 🏫 Academy Life
+![Screenshot Academy Life](./images/en/academy_life.webp)
+
+### 🔍 Investigation & Deduction
+![Screenshot Investigation](./images/en/investigate.webp)
+
+## 🔮 About the Demo
+This demo includes the **Chapter 1**.  
+In this chapter, you can get a sneak peek at the core magic academy daily life, character stat raising/scheduling, and the clue gathering and detective deduction for the mystery case.  
+* ⏳ **Estimated Playtime**: Around 1 - 2 hours.
+
+## 🎮 How to Play
+**Click the Link** 👉 https://pa-casefile.github.io/pa-casefile-web/
+
+> 💡 There is an option to "Preload Assets" via the button located in the top-right corner of the title screen. If you prefer a smoother experience with zero lag, you can click it to cache the music and art assets before you begin.
+
+---
+![遊戲橫幅海報](./images/zh/x_banner.png)
+# 普魯登蒂亞學園事件簿（試玩版）
+
+## 📜 故事背景
+**「只要破了這宗案，你就能活下去。」**  
+一位自稱「死神」的少女，突然將你強行帶到了異世界的魔法學園，命令你在此學習探案技巧。  
+她的目的，僅僅是為了一宗即將發生的神祕凶案──而那宗凶案的受害者，竟然是「全人類」！
+
+## 👾 關於遊戲
+
+### 🏫 學園生活
+![Screenshot Academy Life](./images/zh/academy_life.webp)
+
+### 🔍 探案解謎
+![Screenshot Investigation](./images/zh/investigate.webp)
+
+## 🔮 關於試玩版
+本試玩版開放了遊戲的**第一章**。
+在這一章中，您可以搶先體驗核心的魔法學園日常、角色養成日程安排，以及懸疑案件的線索搜集與偵探推演。
+* ⏳ **預估遊玩時間**：約 1 ~ 2 小時。
+
+## 🎮 遊玩方法
+**點擊連結** 👉 https://pa-casefile.github.io/pa-casefile-web/
+
+> 💡 遊戲主畫面的右上角設有「預先下載資源」的按鈕。您可以選擇在開始前點擊它，系統會先將音樂與圖像素材下載至瀏覽器快取，這能讓您隨後的遊玩過程更加順暢不卡頓。
+
+---
+![ゲームのバナー画像](./images/ja/x_banner.png)
+# プルデンティア学園事件簿（体験版）
+
+## 📜 プロローグ
+**「この事件さえ解決すれば、お前は生き残れる。」**  
+「死神」を自称する謎の少女によって、異世界の魔法学校へと連れ去られたあなた。  
+そこで探偵技術を学ぶよう命じられた目的は、ある一つの殺人事件のため。  
+そして、その事件の被害者は……「全人類」だった。
+
+## 👾 ゲームについて
+
+### 🏫 学園生活
+![Screenshot Academy Life](./images/ja/academy_life.webp)
+
+### 🔍 事件捜査と謎解き
+![Screenshot Investigation](./images/ja/investigate.webp)
+
+## 🔮 体験版について
+本体験版では、ゲームの**第一章**をお楽しみいただけます。
+この章では、魔法学園の日常、キャラクターの育成スケジュール、そして最初の超自然サスペンス事件の証拠集めや探偵としての推理システムをいち早く体験することができます。
+* ⏳ **想定プレイ時間**：約1時間〜2時間。
+
+## 🎮 プレイ方法
+**リンクをクリック** 👉 https://pa-casefile.github.io/pa-casefile-web/
+
+> 💡 タイトル画面の右上には「アセットの事前ダウンロード」ボタンが用意されています。プレイ前にこちらをクリックしておくと、音楽や画像素材がブラウザのキャッシュに読み込まれ、よりカクつきのないスムーズなストーリー展開をお楽しみいただけます。
+
+---
